@@ -64,8 +64,10 @@ edp-htmlhint
 
 更多配置暂时可参考：
 
-https://github.com/ecomfe/edp-htmlhint/lib/elements.js
-https://github.com/ecomfe/edp-htmlhint/lib/config.js
+https://github.com/ecomfe/edp-htmlhint/blob/master/lib/elements.js
+
+https://github.com/ecomfe/edp-htmlhint/blob/master/lib/config.js
+
 
 
 
