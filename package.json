@@ -1,0 +1,25 @@
+{
+  "name": "edp-htmlhint",
+  "description": "Lint html files for edp.",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "chris",
+      "email": "wfsr@foxmail.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecomfe/edp-htmlhint"
+  },
+  "readme": "# edp-htmlhint\n\nLint html files for edp.\n\n\n\n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edp-htmlhint/issues"
+  },
+  "_id": "edp-htmlhint@0.1.0",
+  "_from": "edp-htmlhint@>=0.1.0"
+}
